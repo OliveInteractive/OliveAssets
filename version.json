@@ -2,11 +2,11 @@
     "versions":  [
                      {
                          "version":  "1.0.0",
-                         "sha1":  "42b9010db35699bb01d7b1bc8e17c820496ab193",
-                         "download":  "https://cdn.discordapp.com/attachments/1478413508130508941/1570843246039670876/olive-client-1.0.0.jar?ex=6af89146&is=6af73fc6&hm=1a796aabc16ae62cf1f77f272a2b742b591ee47a42e5f153de80b1d01cf7bf06&",
+                         "sha1":  "bee275befc48c38438b0b8b9fd17a43f123f24a5",
+                         "download":  "https://cdn.discordapp.com/attachments/1478413508130508941/1571080112487669820/olive-client-1.0.0.jar?ex=6af96de0&is=6af81c60&hm=6f0d470802ce987f5a829dc8df7eaf5009d30221bd9bbfd305ee5c27a5fe7df1&",
                          "filename":  "olive-client-1.0.0.jar",
                          "minecraft":  "1.21.11",
-                         "size":  1873402
+                         "size":  1892893
                      }
                  ]
 }
